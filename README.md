@@ -10,7 +10,7 @@ In 2018, Katrina Miller and I co-founded the #IAm Project for women of color to 
 ## Connect with me:
 ![linkedin](images/linkedin.png)
 
-[![other][1.1][1]
+[![other][1.1]][1]
 [![twitter][2.1]][2]
 [![instagram][3.1]][3]
 
