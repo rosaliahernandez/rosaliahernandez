@@ -1,4 +1,4 @@
-# Hello! My name is Rosie
+# Hello, my name is Rosie!
 
 I'm an alumna of Barrett, the Honors College at Arizona State University. I currently work in sales operation, and I aspire to one day become a product manager. I taught myself SQL a couple years ago. My newest endeavour is to learn Python.
 
