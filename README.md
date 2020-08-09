@@ -9,5 +9,5 @@ In 2018, Katrina Miller and I co-founded the #IAm Project for women of color to 
 
 ## Connect with me:
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
-[1]: http://www.linkedin.com/in/rhernandezgonzalez
-
+blah
+[1]: http://www.github.com/your_contact_info
