@@ -12,3 +12,6 @@ In 2018, Katrina Miller and I co-founded the #IAm Project for women of color to 
 [![Twitter Icon][2.1]][https://www.https://twitter.com/rrosiehernandez]
 [![Instagram_Icon][3.1]][https://www.instagram.com/iamstemproject/]
 
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+
+[1]: https://www.linkedin.com/in/rhernandezgonzalez/
